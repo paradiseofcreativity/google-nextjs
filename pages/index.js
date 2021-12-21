@@ -75,7 +75,7 @@ export default function Home() {
             />
           )}
           <MicrophoneIcon
-            className={classNames('text-gray-500 h-5', {
+            className={classNames('text-gray-500 h-5 hidden sm:inline-flex', {
               'border-l pl-4 border-gray-300': query,
             })}
           />
