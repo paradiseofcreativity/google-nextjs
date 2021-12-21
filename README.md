@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="http://paradiseofcreativity.wordpress.com/">
+    <img src="https://paradiseofcreativity.files.wordpress.com/2021/01/paradise.png" alt="Paradise of Creativity Logo" width="200" height="auto">
+  </a>
+</p>
+
+<h3 align="center">Paradise of Creativity</h3>
+
+<p align="center">
+  Parimal Nakrani
+</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
